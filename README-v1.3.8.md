@@ -4,5 +4,5 @@
 "Link": "https://t.me/+UxUCh83RDGwyYTNk",
 "Color": "#FF5722",
 "Button": "پیوستن",
-"Show": "on"
+"Show": "off"
 }
